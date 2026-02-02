@@ -1,0 +1,10 @@
+- [ ] Change endpoint from v1beta to v1 in handleAnalyze function
+- [ ] Update prompt in handleAnalyze to be more ATS-focused
+- [ ] Use optional chaining for response parsing in handleAnalyze
+- [ ] Add checks for response.ok and handle empty responses in handleAnalyze
+- [ ] Update error handling to show specific errors in handleAnalyze
+- [ ] Change endpoint from v1beta to v1 in handleImproveResume function
+- [ ] Use optional chaining for response parsing in handleImproveResume
+- [ ] Add checks for response.ok and handle empty responses in handleImproveResume
+- [ ] Update error handling to show specific errors in handleImproveResume
+- [ ] Test the app after changes to ensure it works without crashes
