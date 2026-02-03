@@ -1,6 +1,8 @@
-# Resume Analyzer AI
+# AI Resume Analyzer 🚀
 
-A modern, AI-powered resume analyzer web application built with React, Tailwind CSS, and Google Gemini API.
+🔗 **Live Demo:** https://ai-resume-analyzer-vbme.onrender.com
+
+An AI-powered web app that analyzes resumes using Google Gemini, extracts skills, gives ATS score, and suggests improvements.
 
 ## Features
 
